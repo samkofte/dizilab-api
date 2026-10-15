@@ -1,6 +1,6 @@
 # Dizilab Reverse Engineered API & Web Dashboard
 
-[kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) prensipleri ve ağ analiziyle tersine mühendislik uygulanmış, **Python harici web hostinglerinde (PHP veya Node.js)** sıfır yapılandırmayla çalışan tam teşekküllü Dizilab API servisi.
+ **Python harici web hostinglerinde (PHP veya Node.js)** sıfır yapılandırmayla çalışan tam teşekküllü Dizilab API servisi.
 
 ---
 
